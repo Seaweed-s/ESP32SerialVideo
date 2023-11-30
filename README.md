@@ -29,3 +29,6 @@ The python program is a simple example program that I wrote to read and decode t
 - [ ] More informative serial status communication
 - [ ] LED status lighting
 - [ ] Control of an 8x8 LED matrix from the PC
+
+## Please Note:
+This repo has been archived as the main purpose was to provide a USB video solution for EyeTrackVR. This has now been implemented in a much more efficient manner in EyeTrackVR's firmware and as such, this repo is no longer being updated or maintained.
